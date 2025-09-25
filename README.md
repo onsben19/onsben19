@@ -47,11 +47,12 @@ Git | Linux | Bash | Docker | Vagrant | Jenkins | Prometheus | Grafana | SonarQu
 
 ## 📊 Technical Skills (Animated Bars)
 
-**Back-end** : ▓▓▓▓▓▓▓▓░░ 80%  
-**Front-end** : ▓▓▓▓▓▓▓░░░ 70%  
-**DevOps & Tools** : ▓▓▓▓▓▓▓▓▓░ 85%  
-**Databases** : ▓▓▓▓▓▓▓░░░ 70%  
-**Languages & Frameworks** : ▓▓▓▓▓▓▓▓░ 80%
+**Back-end** : ![Back-end](https://img.shields.io/badge/Backend-80%25-brightgreen)  
+**Front-end** : ![Front-end](https://img.shields.io/badge/Frontend-70%25-orange)  
+**DevOps & Tools** : ![DevOps](https://img.shields.io/badge/DevOps-85%25-blue)  
+**Databases** : ![Databases](https://img.shields.io/badge/Databases-70%25-yellow)  
+**Languages & Frameworks** : ![Languages](https://img.shields.io/badge/Languages-80%25-pink)
+
 
 ---
 
