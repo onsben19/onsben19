@@ -45,7 +45,7 @@ Git | Linux | Bash | Docker | Vagrant | Jenkins | Prometheus | Grafana | SonarQu
 
 ---
 
-## 📊 Technical Skills (Animated Bars)
+## 📊 Technical Skills 
 
 **Back-end** : ![Back-end](https://img.shields.io/badge/Backend-80%25-brightgreen)  
 **Front-end** : ![Front-end](https://img.shields.io/badge/Frontend-70%25-orange)  
@@ -80,6 +80,6 @@ Git | Linux | Bash | Docker | Vagrant | Jenkins | Prometheus | Grafana | SonarQu
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=glow)](https://www.linkedin.com/in/onsbenmassoud)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=glow)](mailto:onsbenmassoud7@gmail.com)  
 
----
+
 
 ⭐ *Always ready to learn, experiment, and take on new challenges!*
