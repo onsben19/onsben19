@@ -1,20 +1,20 @@
 # 👋 Hello World!  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Étudiante+en+Génie+Logiciel;Passionnée+de+Technologie;Toujours+avide+de+nouveaux défis&center=true&width=500&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Passionate+About+Technology;Always+Eager+for+New+Challenges&center=true&width=500&height=50)
 
-## 🧑‍💻 À propos de moi
-Je suis **Ons Ben Massoud**, étudiante en dernière année de Génie Logiciel à l’ESPRIT.  
-Passionnée par le développement logiciel et les nouvelles technologies, je suis motivée par l’envie de **apprendre, expérimenter et relever de nouveaux défis**.  
+## 🧑‍💻 About Me
+I am **Ons Ben Massoud**, a final-year Software Engineering student at ESPRIT.  
+Passionate about software development and new technologies, I am driven by the desire to **learn, experiment, and take on new challenges**.  
 
-✨ Mon objectif : rejoindre une équipe dynamique pour **contribuer activement** tout en développant mes compétences techniques et humaines.  
+✨ My goal: to join a dynamic team where I can **actively contribute** while developing both my technical and soft skills.  
 
-📍 **Tunis, Tunisie**  
-📧 **Email** : [onsbenmassoud7@gmail.com](mailto:onsbenmassoud7@gmail.com)  
-📱 **Téléphone** : +216 55999483  
+📍 **Tunis, Tunisia**  
+📧 **Email**: [onsbenmassoud7@gmail.com](mailto:onsbenmassoud7@gmail.com)  
+📱 **Phone**: +216 55999483  
 
 ---
 
-## 🛠️ Compétences Techniques
+## 🛠️ Technical Skills
 
 ### 🔙 Back-end & API
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=white&color=3776AB&animation=twinkle)  
@@ -34,51 +34,51 @@ Passionnée par le développement logiciel et les nouvelles technologies, je sui
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&animation=twinkle)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&animation=twinkle)  
 
-### 🧠 Langages & Frameworks
+### 🧠 Languages & Frameworks
 C | C++ | JavaScript | JavaFX | Qt | SDL  
 
-### ☁️ Bases de Données & Cloud
+### ☁️ Databases & Cloud
 MongoDB | MySQL | PostgreSQL | H2 | Neo4j  
 
-### 🛡️ DevOps & Outils
+### 🛡️ DevOps & Tools
 Git | Linux | Bash | Docker | Vagrant | Jenkins | Prometheus | Grafana | SonarQube | Nexus  
 
 ---
 
-## 📊 Compétences Techniques (Barres animées)
+## 📊 Technical Skills (Animated Bars)
 
 **Back-end** : <img src="https://progress-bar.dev/80/?title=Back-end&color=00FF00&animation=glow" />  
 **Front-end** : <img src="https://progress-bar.dev/70/?title=Front-end&color=FF5733&animation=glow" />  
-**DevOps & Outils** : <img src="https://progress-bar.dev/85/?title=DevOps&color=1E90FF&animation=glow" />  
-**Bases de données** : <img src="https://progress-bar.dev/70/?title=Databases&color=FFD700&animation=glow" />  
-**Langages & Frameworks** : <img src="https://progress-bar.dev/80/?title=Langages&color=FF69B4&animation=glow" />  
+**DevOps & Tools** : <img src="https://progress-bar.dev/85/?title=DevOps&color=1E90FF&animation=glow" />  
+**Databases** : <img src="https://progress-bar.dev/70/?title=Databases&color=FFD700&animation=glow" />  
+**Languages & Frameworks** : <img src="https://progress-bar.dev/80/?title=Languages&color=FF69B4&animation=glow" />  
 
 ---
 
-## 🧠 Compétences Humaines
-💡 Résolution de problèmes | 🧠 Pensée analytique | 🔄 Adaptabilité | 🗣️ Communication | 🚀 Autonomie | 🤝 Travail en équipe | 📝 Rédaction de documentation  
+## 🧠 Soft Skills
+💡 Problem Solving | 🧠 Analytical Thinking | 🔄 Adaptability | 🗣️ Communication | 🚀 Autonomy | 🤝 Teamwork | 📝 Documentation Writing  
 
 ---
 
-## 🌐 Langues
-🇦🇪 Arabe : Langue maternelle  
-🇫🇷 Français : Niveau B2  
-🇬🇧 Anglais : Niveau professionnel  
+## 🌐 Languages
+🇦🇪 Arabic: Native  
+🇫🇷 French: B2  
+🇬🇧 English: Professional  
 
 ---
 
-## 📊 Mes Stats GitHub
+## 📊 My GitHub Stats
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=onsben19&layout=compact&theme=radical)  
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=onsben19&show_icons=true&count_private=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onsben19&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onsben19&show_icons=true&count_private=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onsben19&theme=radical)  
 
 ---
 
-## 🌟 Réseaux & Contact
+## 🌟 Networks & Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=glow)](https://www.linkedin.com/in/onsbenmassoud)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=glow)](mailto:onsbenmassoud7@gmail.com)  
 
 ---
 
-⭐ *Toujours prête à apprendre, expérimenter et relever de nouveaux défis !*  
+⭐ *Always ready to learn, experiment, and take on new challenges!*
