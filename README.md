@@ -47,11 +47,12 @@ Git | Linux | Bash | Docker | Vagrant | Jenkins | Prometheus | Grafana | SonarQu
 
 ## 📊 Technical Skills (Animated Bars)
 
-**Back-end** : <img src="https://progress-bar.dev/80/?title=Back-end&color=00FF00&animation=glow" />  
-**Front-end** : <img src="https://progress-bar.dev/70/?title=Front-end&color=FF5733&animation=glow" />  
-**DevOps & Tools** : <img src="https://progress-bar.dev/85/?title=DevOps&color=1E90FF&animation=glow" />  
-**Databases** : <img src="https://progress-bar.dev/70/?title=Databases&color=FFD700&animation=glow" />  
-**Languages & Frameworks** : <img src="https://progress-bar.dev/80/?title=Languages&color=FF69B4&animation=glow" />  
+**Back-end** : ![Back-end](https://img.shields.io/badge/Back-end-80%25-brightgreen)  
+**Front-end** : ![Front-end](https://img.shields.io/badge/Front-end-70%25-orange)  
+**DevOps & Tools** : ![DevOps](https://img.shields.io/badge/DevOps-85%25-blue)  
+**Databases** : ![Databases](https://img.shields.io/badge/Databases-70%25-yellow)  
+**Languages & Frameworks** : ![Languages](https://img.shields.io/badge/Languages-80%25-pink)
+
 
 ---
 
